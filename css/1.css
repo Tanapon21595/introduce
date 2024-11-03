@@ -1,0 +1,19 @@
+body{
+    background-color: lightpink;
+
+}
+h1{
+    text-align: center;
+}
+
+img {
+    border-radius: 10%;
+    width: 500px;
+    height: 420px;
+  }
+  iframe{
+    border-radius: 10%;
+    width: 500px;
+    height: 420px;
+  }
+  
